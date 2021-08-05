@@ -1,2 +1,2 @@
 # hello_world-
-Just beggining
+Just beginning
